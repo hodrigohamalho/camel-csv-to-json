@@ -1,0 +1,9 @@
+= Red Hat Fuse (Camel) transform CSV to JSON
+
+== Run
+
+  mvn spring-boot:run 
+
+== Testing 
+
+  cp src/main/resources/file.csv tmp/
